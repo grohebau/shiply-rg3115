@@ -1,0 +1,47 @@
+{
+  "SE428152760DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Colin Gormley, 7 Rock Road East, A91 D744 Blackrock, Co. Louth, Irland",
+    "price": "8.540,00 €",
+    "description": "Hersteller: Triumph<br>Typ: Bonneville T120 Black<br>Fahrgestelnummer: SMTDAD75HWJ873470<br>Erstzulassung: 05/2018<br>KM laut Vorbesitzer: 21.968 km<br>Leistung: 90 kW (122 PS)<br>Hubraum: 1.200 cm³<br>Farbe: Grau<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Colin Gormley<br>7 Rock Road East<br>A91 D744 Blackrock, Co. Louth<br>Irland<br>Telefon: +353 838098012",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "27.04.2026",
+    "deliveryDate": "04.05.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "7 Rock Road East",
+      "postal_code": "A91 D744",
+      "city": "Blackrock, Co. Louth",
+      "country": "Irland",
+      "lat": "53.969209590971545",
+      "lng": "-6.362090416037742"
+    }
+  }
+}
