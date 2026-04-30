@@ -1,6 +1,6 @@
 {
   "SE428152760DE": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Colin Gormley, 7 Rock Road East, A91 D744 Blackrock, Co. Louth, Irland",
@@ -28,10 +28,10 @@
     "orderDate": "27.04.2026",
     "deliveryDate": "04.05.2026",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "John F. Kennedylaan 1",
+      "postal_code": "9042",
+      "city": "Gent",
+      "country": "Belgien",
       "lat": "",
       "lng": ""
     },
